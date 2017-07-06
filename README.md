@@ -1,2 +1,5 @@
 # scripts
-some heplpful commandline scripts
+
+some helpful commandline scripts compiled from various sources.
+
+
